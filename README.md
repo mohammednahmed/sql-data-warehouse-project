@@ -1,4 +1,4 @@
-# sql-data-warehouse-project
+# CRM & ERP Enterprise Data Warehouse and Analytics Solution Using SQL Server Management Studio (SSMS)
 
 This project demonstrate a comprehensive data warehousing and analytics solution, from building a warehouse to generating actionable insights. Designed as a portfolio project, highlighting industry best practices in data engineering and analytics
 
